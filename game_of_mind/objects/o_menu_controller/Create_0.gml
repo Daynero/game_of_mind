@@ -12,3 +12,6 @@ var button_4 = instance_create_layer(235, 395, "Buttons", o_menu_buttons);
 button_4.image_speed = 0;
 button_4.image_index = 3;
 #endregion
+#region Кнопка таймера
+instance_create_layer(room_width - 40, 18, "Timer", o_menu_timer);
+#endregion

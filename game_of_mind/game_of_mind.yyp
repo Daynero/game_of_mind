@@ -79,6 +79,14 @@
             }
         },
         {
+            "Key": "44ed6153-1901-4de6-9649-5a274dfbf563",
+            "Value": {
+                "id": "c2d45577-dc3f-432f-82c3-fe579074a09a",
+                "resourcePath": "objects\\o_menu_timer\\o_menu_timer.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
             "Key": "48158c47-71c6-4dab-9a6b-56a542fd3bb5",
             "Value": {
                 "id": "7fe89d0c-39aa-426e-9c97-8c3c088bd656",
@@ -191,6 +199,14 @@
             }
         },
         {
+            "Key": "a335f26c-4086-4881-94c1-0b9d6b290b4e",
+            "Value": {
+                "id": "336dfe25-beb7-4787-8eea-6c005e60c6e0",
+                "resourcePath": "fonts\\f_montserat_timer\\f_montserat_timer.yy",
+                "resourceType": "GMFont"
+            }
+        },
+        {
             "Key": "a9188620-a624-4a5a-83ae-a1b53faf038b",
             "Value": {
                 "id": "2143f8d0-6ad7-49f4-ae42-0b08590829be",
@@ -252,6 +268,14 @@
                 "id": "c5076722-da30-43d7-968f-3d883a139413",
                 "resourcePath": "views\\d64a3477-949e-4cf8-832f-07904cd5a19b.yy",
                 "resourceType": "GMFolder"
+            }
+        },
+        {
+            "Key": "ddfd8881-61b5-4878-b91b-aa1a733f742a",
+            "Value": {
+                "id": "f4e8b9a3-48fd-4629-9c19-4af7a7938c95",
+                "resourcePath": "sprites\\s_menu_timer\\s_menu_timer.yy",
+                "resourceType": "GMSprite"
             }
         },
         {
