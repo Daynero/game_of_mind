@@ -1,10 +1,4 @@
 mouse_down = true;
-switch state {
-	case button_timer.normal: 
-		state = button_timer.opening;
-		break;
-	case button_timer.open: 
-		state = button_timer.closing;
-		break;
-	default: exit;
+if !instance_exists(o_menu_blur) {
+	instance_create_layer(room_width / 2, room_height / 2, "Timer", o_menu_blur);
 }
